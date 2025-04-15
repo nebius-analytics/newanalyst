@@ -32,4 +32,4 @@ psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.m
 If you have problems with connecting to DB please contact our HR.
 
 ## 2. "How can we increase conversion from tenant to customer?"
-Now imagine yourself as analyst in Nebius. CEO comes and asks "How can we increase conversion from tenant to customer?". Propose an action plan how you are going to deal with this task. What hypotheses do you have? What metrics would you like to measure?
+Now imagine yourself as analyst in Nebius. CEO comes and asks "How can we increase conversion from registration to entering card details?". Propose an action plan how you are going to deal with this task. What hypotheses do you have? What metrics would you like to measure?
