@@ -1,17 +1,18 @@
 # Test Assignment for Analyst in Nebius
 
-Dear candidate, 
-We are pleased to recieve your application!
+Dear Candidate,
+Thank you for your application!
 
-We offer you to complete our test assignment. You are allowed to use all the tools available, including AI. We encourage you to try our Nebius AI Studio, HR will share a $10 promocode with you. 
+We’re pleased to invite you to complete our test assignment. You are welcome to use any tools available, including AI. We also encourage you to try out our Nebius AI Studio — our HR team will share a $10 promo code with you
 
 
-## 1. "How our sales are going?"
-Analyze sales pipeline of some fictional organization. Imagine CEO came to you and asked "How our sales are going?".
+## 1. Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks, “How are our sales going?”
 
- * Provide a laconic report on the current situation. 
- * Design a Sales Pipeline Dashboard that will be used by CEO on regular basis. What metrics you suggest to include there? If you develop an actual dashboard / data app it will be a great plus. You can use any tool / framework you prefer.
- * What additional data you would like to collect and why?
+ * Provide a concise report on the current situation.
+
+ * Design a Sales Pipeline Dashboard for regular use by the CEO. What key metrics would you include? If you choose to develop an actual dashboard or data app, that would be a strong bonus. You may use any tool or framework you prefer.
+
+ * What additional data would you like to collect, and why?
 
 Data is stored in postgres database. How to connect to it:
 1. Download certificate
@@ -29,7 +30,15 @@ psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.m
   dbname=sales \
   user=sales-analyst"
 ```
-If you have problems with connecting to DB please contact our HR.
+If you have problems with connecting to DB please contact our HR team.
 
-## 2. "How can we increase conversion from tenant to customer?"
-Now imagine yourself as analyst in Nebius. CEO comes and asks "How can we increase conversion from registration to entering card details?". Propose an action plan how you are going to deal with this task. What hypotheses do you have? What metrics would you like to measure?
+## 2. "Conversion to first GPU conumption"
+Now, imagine yourself as an analyst at Nebius. The CEO approaches you and asks: “How can we increase conversion from registration to first GPU consumption”
+
+Propose an action plan for how you would approach this task. Consider the following:
+
+ * What hypotheses do you have?
+
+ * What metrics would you track and measure?
+
+ * How would you validate or disprove your assumptions?
