@@ -3,7 +3,7 @@
 Dear Candidate,
 Thank you for your application!
 
-We’re pleased to invite you to complete our test assignment. You are welcome to use any tools available, including AI. We also encourage you to try out our Nebius AI Studio — our HR team will share a $10 promo code with you
+We’re pleased to invite you to complete our test assignment. You are welcome to use any tools available, including AI. We also encourage you to try out our Nebius AI Studio — our HR team will share a $10 promo code with you. Deadline is 72 hours from the moment you recieve the task.
 
 
 ## 1. Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks, “How are our sales going?”
@@ -22,7 +22,7 @@ curl "https://storage.eu-north1.nebius.cloud/msp-certs/ca.pem" \
   -o ~/.postgresql/root.crt
 chmod 0600 ~/.postgresql/root.crt
 ```
-2. Check the connection. Password will be provided by HR.
+2. Check the connection. Password will be provided by our HR team.
 ```
 psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.msp.eu-north1.nebius.cloud \
   port=5432 \
@@ -32,13 +32,12 @@ psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.m
 ```
 If you have problems with connecting to DB please contact our HR team.
 
-## 2. "Conversion to first GPU conumption"
-Now, imagine yourself as an analyst at Nebius. The CEO approaches you and asks: “How can we increase conversion from registration to first GPU consumption”
+## 2. Conversion to first GPU conumption
+Now, imagine yourself as an analyst at Nebius. The CPO approaches you and asks: “How can we increase conversion from registration to first GPU consumption for Individual users”
 
 Propose an action plan for how you would approach this task. Consider the following:
 
- * What hypotheses do you have?
+ * What hypotheses do you have? 
 
- * What metrics would you track and measure?
+ * What metrics would you track and measure to check these hypotheses?
 
- * How would you validate or disprove your assumptions?
