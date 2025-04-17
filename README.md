@@ -1,6 +1,7 @@
 # Test Assignment for Analyst in Nebius
 
 Dear Candidate,
+
 Thank you for your application!
 
 We’re pleased to invite you to complete our test assignment. You are welcome to use any tools available, including AI. We also encourage you to try out our Nebius AI Studio — our HR team will share a $10 promo code with you. Deadline is 72 hours from the moment you recieve the task. Please send the result to email provided by our HR team.
