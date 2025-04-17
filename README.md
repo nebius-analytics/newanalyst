@@ -9,7 +9,7 @@ We’re pleased to invite you to complete our test assignment. You are welcome t
 
 ## 1. “How are our sales going?”
 
-Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks, 
+Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks “How are our sales going?”.
  * Provide a concise report on the current situation.
 
  * Design a Sales Pipeline Dashboard for regular use by the CEO. What key metrics would you include? If you choose to develop an actual dashboard or data app, that would be a strong bonus. You may use any tool or framework you prefer.
@@ -35,7 +35,7 @@ psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.m
 If you have problems with connecting to DB please contact our HR team.
 
 ## 2. Conversion to first GPU conumption
-Now, imagine yourself as an analyst at Nebius. The CPO approaches you and asks: “How can we increase conversion from registration to first GPU consumption for Individual users”
+Now, imagine yourself as an analyst at Nebius. The CPO approaches you and asks: “How can we increase conversion from registration to first GPU consumption for Individual users?”
 
 Propose an action plan for how you would approach this task. Consider the following:
 
