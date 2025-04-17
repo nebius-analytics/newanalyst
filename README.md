@@ -6,8 +6,9 @@ Thank you for your application!
 We’re pleased to invite you to complete our test assignment. You are welcome to use any tools available, including AI. We also encourage you to try out our Nebius AI Studio — our HR team will share a $10 promo code with you. Deadline is 72 hours from the moment you recieve the task. Please send the result to email provided by our HR team.
 
 
-## 1. Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks, “How are our sales going?”
+## 1. “How are our sales going?”
 
+Analyze the sales pipeline of a fictional organization. Imagine the CEO comes to you and asks, 
  * Provide a concise report on the current situation.
 
  * Design a Sales Pipeline Dashboard for regular use by the CEO. What key metrics would you include? If you choose to develop an actual dashboard or data app, that would be a strong bonus. You may use any tool or framework you prefer.
