@@ -26,11 +26,11 @@ chmod 0600 ~/.postgresql/root.crt
 ```
 2. Check the connection. Password will be provided by our HR team.
 ```
-psql "host=public-rw.postgresql-e00d4dv1bw48m5zd8p.backbone-e00g4teqcpmz03de0b.msp.eu-north1.nebius.cloud \
+psql "host=public-rw.postgresql-e00z8jwxa27v4ekr7x.backbone-e00g4teqcpmz03de0b.msp.eu-north1.nebius.cloud \
   port=5432 \
   sslmode=verify-full \
   dbname=sales \
-  user=sales-analyst"
+  user=sales_analyst"
 ```
 If you have problems with connecting to DB please contact our HR team.
 
